@@ -8,6 +8,7 @@ First thing you'll need to do is set up your repository as follows:
 
 ```
 git clone https://github.com/18f/sheet-to-csv
+cd sheet-to-csv
 mv scriptId.json.example scriptId.json
 npm install
 ```
