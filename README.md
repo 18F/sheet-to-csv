@@ -1,3 +1,5 @@
+DEPRECATED: Use https://github.com/18F/gapps-download instead
+
 # sheet-to-csv
 
 Due to security settings, it's difficult for us to share data from Google Sheets as open data. This script makes it trivial to publish a CSV from a google sheet.
